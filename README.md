@@ -3,6 +3,15 @@ This is a basic bootstrap template I currently use for [my webiste](http://templ
 
 ## Table of contents
 - [Overview](#overview)
+- [Commiting](#comiting)
+- [License](#License)
 
 
 ## Overview
+A very simple Bootstrap Template for the PHP framework. Bootstrap V 3.1.1 is included as doesn't contain any edits.
+(more coming soon).
+
+## Commiting
+
+## License
+
