@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <title>About the Project</title>
-        <?php include("includes/php/includetop.php"); ?>
+        <?php include("includes/php/includeindex.php"); ?>
 </head>
 <body>
 
