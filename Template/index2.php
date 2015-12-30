@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <title>About Me</title>
-        <?php include("includes/php/includetopabout.php"); ?>
+        <?php include("includes/php/includetopindex2.php"); ?>
 </head>
 <body>
 
