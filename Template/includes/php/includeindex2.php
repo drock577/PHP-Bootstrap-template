@@ -5,4 +5,4 @@
     <title>Bootstrap 3 Responsive Design Tutorial | RevillWeb.com</title>
     <!-- Include bootstrap CSS -->
     <link href="includes/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="includes/about.css" rel="stylesheet">
+    <link href="includes/index2.css" rel="stylesheet">
