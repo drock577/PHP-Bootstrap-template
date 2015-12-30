@@ -1,0 +1,124 @@
+3@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+h1, h2, h3, h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+p {
+    font-family: 'Lato', sans-serif;
+}
+a,u {
+      color: #fff;  
+}
+.wtext {
+    color: #fff;  
+}
+.btext {
+    color: #000;
+}
+.lbtext {
+       color: #00ffff;
+}
+.dtext {
+       font-family:"Times New Roman", Times, serif;
+}
+html {
+    background-color: #0030ff;
+}
+.top {
+    background-color: #0030ff;
+}
+.top .navbar-brand {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    padding: 0 10px;
+    background-color: #CCC;
+    color: #0030ff;
+    text-decoration: none;
+}
+.top .container {
+    padding: 0;
+}
+.banner {
+    background-color: #ff4242;
+}
+.banner .container {
+    background-color: #ffbb5b;
+    min-height: 10px;
+    padding: 40px 30px 30px 40px;
+}
+.banner .container p {
+    font-size: 22px;
+    padding-left: 5px;
+    font-weight: 300;
+}
+.middle {
+    background-color: #4ad5ff;
+}
+.middle .container {
+    background-color: #bf81ff;
+    min-height: 10px;
+    padding-bottom: 20px;
+}
+.navbar-nav li a {
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+.navbar-nav li a:hover {
+    background-color: #ff0000;
+}
+.dropdown {
+    background-color: #ff0000;
+}
+.bottom {
+    background-color: #4aff46;
+}
+.bottom .container {
+    background-color: #3d62ff;
+    min-height: 150px;
+}
+.bottom .container h3 {
+    color: #fff;
+}
+.bottom .container p {
+    color: #fff;
+}
+.bottom .container a:hover {
+    color: #f00;
+}
+.middle .container a:hover {
+    color: #FFFF55;
+}
+.navbar-toggle {
+    color: #009b9b;
+    font-size: 32px;
+    margin: 3px;
+    padding: 2px 5px;
+    line-height: 32px;
+}
+.navbar-toggle:hover {
+    background-color: #373737;
+}
+.navbar-nav {
+    margin: 0;
+}
+
+.content p {
+    line-height: 30px;
+    font-size: 16px;
+}
+.to-tutorial {
+    text-align: center;
+}
+.ttlogo{
+    width:30%; 
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textcenter{
+    text-align: center; 
+}
