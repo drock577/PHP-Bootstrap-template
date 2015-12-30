@@ -19,4 +19,4 @@ The current version is currently considered Version 1.
 
 
 ## License
-This is currently released under the [MIT](https://github.com/Tikal-Interactive/PHP-Bootstrap-template/LICENSE).
+This is currently released under the [MIT](https://github.com/Tikal-Interactive/PHP-Bootstrap-template/blob/master/LICENSE).
