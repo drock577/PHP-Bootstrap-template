@@ -27,8 +27,16 @@ This file will be included in under the footer, and above the body tag in a norm
 ###includeindex.php & includeindex2.php
 These two files server the same purpose. There just calling a different CSS file. This is where you should included files that should be called before any content loaded.  This file includes the websites meta data, favicon, title, and CSS links.
 
+###Normal
+This edition eliminates the margin on the sides. Also gives you an announcment bar at the top of the site, and centers the navbar.
+
 ## Version
-The current version is currently considered Version 1.
+The current version is currently considered Version 2.
+Added the Normal edition of the template.
 
 ## License
 This is currently released under the [MIT](https://github.com/Tikal-Interactive/PHP-Bootstrap-template/blob/master/LICENSE).
+FONTS- Used the following [OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) & public domain fonts
+  - Fjalla One
+  - Archivo Black
+  - Lobster Two
