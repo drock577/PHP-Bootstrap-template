@@ -9,7 +9,8 @@
             <nav class="navbar-collapse collapse" role="navigation">
                 <ul class="navbar-nav nav">
                     <li><a href="index.php">Index</a></li>
-                    <li><a href="index2.php">index2</a></li>                    
+                    <li><a href="index2.php">index2</a></li>
+                    <li><a href="normal.php">normal</a></li>                  
                 </ul>
             </nav>
         </div>
