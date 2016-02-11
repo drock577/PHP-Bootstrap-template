@@ -36,6 +36,7 @@ Added the Normal edition of the template.
 
 ## License
 This is currently released under the [MIT](https://github.com/Tikal-Interactive/PHP-Bootstrap-template/blob/master/LICENSE).
+
 FONTS- Used the following [OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) & public domain fonts
   - Fjalla One
   - Archivo Black
