@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two:700italic|Fjalla+One|Archivo+Black&subset=latin,latin-ext);
+/***************************
+NOTE Colors:
+#00FF99 GREEN
+#0000FF BLUE
+#FF0000 RED
+
+***************
+
+Fonts to be used...
+
+font-family: 'Lobster Two', cursive;
+
+font-family: 'Fjalla One', sans-serif;
+
+font-family: 'Archivo Black', sans-serif;
+
+***************************/
+
+.lobster{
+  font-family: 'Lobster Two', cursive, bold;
+  text-align: center;
+}
+.Fjalla{
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+}
+.Archivo{
+  font-family: 'Archivo Black', sans-serif;
+  text-align: center;
+}
+/*
+these are the colors selectors
+wtext - white
+btext - black
+*/
+.wtext {
+    color: #fff;
+}
+.btext {
+    color: #000;
+}
+/*
+Various html effects
+*/
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+/*
+Navbar effects
+nspace & ncenter are used to space and center the navbar
+top is the top navbar effect
+green is the green banner effect
+bottom is the bottom toolbar
+b1 & g1 top navbar effects
+*/
+
+.b1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #0000FF;
+  color: #00FF99;
+}
+.r1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #FF0000;
+  color: #00FF99;
+}
+.nbar{
+  padding-top: 0px;
+  padding-bottom: 10px;
+  background-color: #00FF99;
+}
+.nspace{
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 200%;
+}
+.ncenter{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.green {
+    background-color: #ff0000;
+}
+
+.middle {
+    background-color: #0000ff;
+}
+.bottom {
+    background-color: #4aff46;
+}
+.navbar {
+  margin-bottom: 0px !important;
+  background-color: #00FF99;
+  border: 0px;
+  border-radius: 0px;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #FF0000;
+}
+.navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+.navbar-nav > li {
+  float: none;
+  display: inline-block;
+}
+p{
+  font-size: 20px;
+}
